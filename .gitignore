@@ -1,0 +1,16 @@
+*~
+*.lock
+*.DS_Store
+*.o
+*.swp
+*.out
+*.pyc
+*.class
+*.so
+_build*
+/3DNN/CameraController/nbproject/private/
+/HadoopProjection/nbproject/private/
+/HadoopProjectionToolbox/nbproject/private/
+/HadoopProjectionToolbox/build/
+/HadoopProjectionToolbox/dist/
+*.ipynb_checkpoints*
